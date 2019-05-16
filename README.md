@@ -2,8 +2,13 @@
 
 ## Comandos de GIT
 ### Comandos comuns
+![Comandos comuns do Git](/git-common.png)
 
+### Comandos de cherry-pick
+![Comandos de cherry-pick do Git](/git-cherry-pick.png)
 
+### Comandos der rebase
+![Comandos de rebase do Git](/git-rebase.png)
 
 Estrutura final do arquivo `index.html`:
 ```html
